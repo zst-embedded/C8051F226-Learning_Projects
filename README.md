@@ -20,6 +20,12 @@ Name                               | Done on    | Category            | Hardware
 [Lab 7: Exercise 1]                | 2017-05-23 | Interfacing         | Single 7-segment display, Push Button
 [Lab 7: Exercise 2]                | 2017-05-23 | Interfacing         | Single 7-segment display, 4x4 keypad with decoder
 [Lab 7: Bonus 1]                   | 2017-05-23 | Interfacing         | LED, 4x4 keypad with decoder
+[Lab 8: Exercise 1]                | 2017-07-04 | Timers              | 4-digit 7-segment display, Push Button
+[Lab 9: Exercise 1]                | 2017-07-11 | UART                | MAX3223 Serial Line Driver
+[Lab 10: Exercise 1 and 2]         | 2017-07-18 | Interfacing, UART   | HD44780 LCD display, MAX3223 Serial Line Driver
+[Lab 11: Exercise 1]               | 2017-07-25 | Interrupt           | LED, Push Button
+[Lab 11: Exercise 2]               | 2017-07-25 | Interrupt, UART     | MAX3223 Serial Line Driver
+[Lab 11: Bonus 1]                  | 2017-07-25 | PWM, Timers, Interrupt | LED
 
 **Note:** 
 - *Exercises are those stated in the lab sheet, whereas bonus codes are those thought of on the spot.*
@@ -40,3 +46,9 @@ Name                               | Done on    | Category            | Hardware
 [Lab 7: Exercise 1]: ./projects/Lab7_Exercise-1.c
 [Lab 7: Exercise 2]: ./projects/Lab7_Exercise-2.c
 [Lab 7: Bonus 1]: ./projects/Lab7_Bonus-1.c
+[Lab 8: Exercise 1]: ./projects/Lab8_Exercise-1.c
+[Lab 9: Exercise 1]: ./projects/Lab9_Exercise-1.c
+[Lab 10: Exercise 1 and 2]: ./projects/Lab10_All-Exercises.c
+[Lab 11: Exercise 1]: ./projects/Lab11_Exercise-1.c
+[Lab 11: Exercise 2]: ./projects/Lab11_Exercise-2.c
+[Lab 11: Bonus 1]: ./projects/Lab11_Bonus-1.c
